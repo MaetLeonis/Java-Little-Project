@@ -2,7 +2,7 @@
 ---
 This is a short RPG Game to learn Java
 ---
-
+>Version 0.08 Added White square als Character. Added tiles and map generators(Not working yet).  
 >Version 0.07 Added new Window Icon.  
 >Version 0.06 Added New Sprite. The Control Key moves the map arround.  
 >Version 0.05 Added Control Keys (WASD).  

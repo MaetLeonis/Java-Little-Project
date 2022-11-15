@@ -2,6 +2,7 @@
 ---
 This is a short RPG Game to learn Java
 ---
+>Version 0.086 Changed files to work on a new computer
 >Version 0.085 Added a new Licence.  
 >Version 0.08 Added White square as Character. Added tiles and map generators(Not working yet).  
 >Version 0.07 Added new Window Icon.  
